@@ -1,26 +1,84 @@
-## Curso Machine Learning
+# Curso Machine Learning
 
-En esta sección se desarrollan distintos modelos y técnicas fundamentales de **Machine Learning**, combinando teoría con implementaciones prácticas en Python aplicadas a datasets reales.
+Este módulo corresponde al Nivel V dentro de la arquitectura de formación en Inteligencia Artificial.
 
-Se trabaja con problemas de regresión, clasificación, reducción de dimensionalidad y modelos de series temporales, permitiendo comprender cómo aplicar algoritmos de aprendizaje automático en distintos contextos.
+En esta sección se desarrollan modelos fundamentales de machine learning, aplicados a distintos tipos de problemas utilizando datasets reales.
 
-Se utilizan datasets como **50 Startups**, donde se implementa el modelo de **Regresión Lineal** y **Regresión Lineal Múltiple** para analizar la relación entre variables y predecir resultados continuos.
+---
 
-También se abordan modelos de **clasificación**, como la **regresión logística**, utilizando la librería *scikit-learn*, lo que permite resolver problemas de predicción de variables categóricas.
+## Contenido
 
-En cuanto a la reducción de dimensionalidad, se estudian técnicas como:
+- Regresión lineal y múltiple
+- Regresión logística
+- Regularización (Ridge y Lasso)
+- Análisis discriminante (LDA y QDA)
+- Reducción de dimensionalidad (PCA)
+- Redes neuronales (LSTM)
 
-- **PCA (Análisis de Componentes Principales)**, que permite transformar datos de alta dimensión en un espacio más reducido conservando la mayor varianza posible.  
-- **LDA (Análisis Discriminante Lineal)**, una técnica supervisada que busca maximizar la separabilidad entre clases, ayudando a reducir el sobreajuste y mejorar el rendimiento del modelo.  
+---
 
-Estas técnicas permiten:
-- Analizar la correlación entre variables  
-- Reducir la complejidad de los datos  
-- Visualizar datos de alta dimensión en espacios de menor dimensión  
-- Evaluar el impacto del número de componentes en el rendimiento del modelo  
+## Estructura
 
-Además, se incluyen modelos lineales regularizados como **Ridge** y **Lasso**, que ayudan a prevenir el sobreajuste mediante la penalización de los coeficientes del modelo.
+Los notebooks siguen una estructura orientada a machine learning:
 
-Por otro lado, se introduce el uso de redes neuronales recurrentes, específicamente el modelo **LSTM (Long Short-Term Memory)**, aplicado a la predicción de precios de acciones. Este enfoque permite capturar dependencias temporales en datos secuenciales, siendo especialmente útil en series de tiempo financieras.
+- Definición del problema
+- Exploración del dataset
+- Preparación de datos
+- Entrenamiento del modelo
+- Evaluación del modelo
+- Conclusiones
 
-En conjunto, esta sección proporciona una visión integral de técnicas clave de Machine Learning, desde modelos lineales hasta métodos avanzados, aplicados a problemas reales y orientados al análisis y predicción de datos.
+---
+
+## Modelos implementados
+
+### Regresión
+- Ejemplo_de_regresión_múltiple.ipynb
+- regresion_01.ipynb
+- Regresión_Lineal_Múltiple.pdf
+- Regresión.pdf
+
+### Clasificación
+- Regresion_logistica.ipynb
+- LDA_01.ipynb
+- QDA.ipynb
+- LDA_1.pdf
+
+### Regularización
+- Ridge_Lasso.ipynb
+- Ridge_regresion-1.ipynb
+- Ridge Regression and Lasso.pdf
+
+### Reducción de dimensionalidad
+- PCA_ejemplo.ipynb
+- PCA_Implementacion.ipynb
+- PCA y Regresión.ipynb
+- pca.png
+
+### Redes neuronales
+- LSTM.ipynb
+
+---
+
+## Datasets
+
+- 50_Startups.csv
+- advertising.csv
+- real_estate_price_size_year.csv
+
+---
+
+## Objetivo
+
+El objetivo de este módulo es aplicar modelos de machine learning para resolver problemas reales, comprendiendo tanto su implementación como su interpretación.
+
+---
+
+## Mejora aplicada
+
+Se mejoró la estructura del repositorio mediante:
+
+- Organización de archivos por tipo de modelo
+- Clasificación clara de notebooks
+- Documentación estructurada con README
+- Presentación más profesional del contenido
