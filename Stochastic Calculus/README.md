@@ -1,4 +1,4 @@
-# Stochastic Calculus
+# Cálculo Estocástico
 
 Este módulo corresponde al Nivel III dentro de la arquitectura de formación en Inteligencia Artificial.
 
