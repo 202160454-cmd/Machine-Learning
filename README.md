@@ -77,6 +77,21 @@ Se seleccionaron repositorios clave del perfil y se analizaron con base en:
 
 ## 🔍 Análisis de repositorios
 
+---
+### 🎯 Selección de repositorios
+
+Para este análisis se seleccionaron tres repositorios específicos del perfil, con el objetivo de representar distintos niveles dentro de la arquitectura de formación en Inteligencia Artificial.
+
+La elección no se basa en cantidad, sino en relevancia, ya que cada repositorio refleja una etapa clave del proceso de aprendizaje:
+
+- **Probabilidad-en-Python (Nivel I)** → Fundamentos matemáticos  
+- **SQL (Nivel IV)** → Infraestructura y manejo de datos  
+- **Machine Learning / Artificial Intelligence (Nivel V)** → Modelos predictivos e inteligencia artificial  
+
+Esta selección permite analizar el desarrollo completo del perfil, desde las bases teóricas hasta la aplicación práctica en modelos de inteligencia artificial.
+
+De esta manera, se logra una evaluación más profunda y representativa, evitando un análisis superficial de múltiples repositorios.
+
 <details>
 <summary><strong>📌 1. Probabilidad-en-Python</strong></summary>
 
