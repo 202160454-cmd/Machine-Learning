@@ -1,51 +1,80 @@
-## SQL
+# SQL
 
-SQL (*Structured Query Language*) es un lenguaje especializado utilizado para gestionar y manipular datos almacenados en sistemas de bases de datos relacionales (**RDBMS**). Es una herramienta fundamental en áreas como análisis de datos, ciencia de datos y desarrollo de software.
+Este módulo corresponde al Nivel IV dentro de la arquitectura de formación en Inteligencia Artificial.
 
----
-
-## 🧭 Ruta de aprendizaje
-
-### 1. Introducción a bases de datos relacionales
-
-Una **base de datos relacional** almacena información en múltiples tablas relacionadas entre sí.
-
-Características principales:
-- Datos organizados en **filas y columnas**  
-- Cada fila representa un registro único  
-- Cada columna define un tipo de dato específico  
-- Relaciones entre tablas mediante claves (keys)  
-
-Esto permite realizar consultas complejas combinando información de distintas fuentes.
+En esta sección se desarrollan habilidades fundamentales para el manejo de datos estructurados mediante SQL, permitiendo la extracción, transformación y análisis de información desde bases de datos relacionales.
 
 ---
 
-### 2. Sistemas de gestión de bases de datos (DBMS)
+## Enfoque del módulo
 
-Un **DBMS (Database Management System)** es el software encargado de administrar bases de datos.
+El enfoque está orientado al uso de SQL como herramienta clave en el flujo de trabajo de ciencia de datos, desde la exploración de datos hasta su preparación para modelos de machine learning.
 
-Algunos ejemplos populares:
-- MySQL  
-- PostgreSQL  
-- SQLite  
-- Oracle Database  
-- IBM Db2  
-
-Aunque existen múltiples sistemas, todos utilizan SQL como lenguaje estándar, lo que facilita trabajar con diferentes tecnologías una vez dominados los fundamentos.
+Se trabajan consultas sobre bases de datos reales, simulando escenarios aplicados en análisis de datos y entornos empresariales.
 
 ---
 
-### 3. SQL como herramienta en ciencia de datos
+## Contenido
 
-SQL es una herramienta clave para:
-- Consultar grandes volúmenes de datos  
-- Filtrar información relevante  
-- Realizar agregaciones (SUM, AVG, COUNT)  
-- Unir tablas (JOIN)  
-- Preparar datos para análisis o modelos  
-
-Por ello, es una habilidad esencial en el flujo de trabajo de un **data scientist**.
+- Consultas SQL básicas y avanzadas  
+- Filtrado y selección de datos (SELECT, WHERE, ORDER BY)  
+- Joins (INNER, LEFT, RIGHT) para integración de datos  
+- Subconsultas y consultas anidadas  
+- Uso de SQLite en Python  
+- Exploración de bases de datos reales  
 
 ---
 
-### 4. Integración con Python
+## Estructura de trabajo
+
+Los notebooks siguen una metodología práctica:
+
+1. Conexión a la base de datos  
+2. Exploración de tablas y esquema  
+3. Construcción de consultas SQL  
+4. Integración de resultados en Python  
+5. Análisis e interpretación de datos  
+
+---
+
+## Archivos principales
+
+- SQL.ipynb  
+  → Introducción a consultas SQL  
+
+- SQL 2-2.ipynb  
+  → Consultas avanzadas y joins  
+
+- Sqlite_IMDB.ipynb  
+  → Integración de SQL con Python utilizando SQLite  
+
+- movie.sqlite  
+  → Base de datos relacional (dataset de películas)  
+
+---
+
+## Aplicación en Ciencia de Datos
+
+SQL es una herramienta esencial en el pipeline de datos:
+
+- Extracción de información desde bases de datos  
+- Preparación de datasets para modelos  
+- Integración con Python (Pandas, análisis)  
+- Optimización de consultas para grandes volúmenes de datos  
+
+---
+
+## Objetivo
+
+Desarrollar la capacidad de trabajar con bases de datos de forma eficiente, utilizando SQL como herramienta para análisis de datos y preparación de información para modelos de inteligencia artificial.
+
+---
+
+## Mejora aplicada
+
+Se mejoró el repositorio mediante:
+
+- Organización clara de notebooks por nivel de complejidad  
+- Integración de una base de datos real (SQLite)  
+- Documentación estructurada con enfoque profesional  
+- Mejora en la claridad del flujo de análisis de datos  
