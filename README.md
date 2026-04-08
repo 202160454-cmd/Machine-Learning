@@ -193,6 +193,10 @@ Es uno de los niveles más fuertes del perfil, pero su impacto sería mucho mayo
 
 ---
 
+Estos repositorios fueron seleccionados a partir de la estructura completa presentada en la tabla anterior, con el objetivo de realizar un análisis más profundo y representativo.
+
+---
+
 ## Conclusión general
 
 El perfil de GitHub analizado presenta una base sólida de conocimientos en inteligencia artificial, organizada bajo una arquitectura progresiva por niveles.
