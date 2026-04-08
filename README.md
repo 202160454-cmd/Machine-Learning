@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arquitectura-IA-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-README-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Proyecto-Académico-green?style=for-the-badge" />
 </p>
 
