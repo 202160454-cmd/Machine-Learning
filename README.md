@@ -55,23 +55,25 @@ Se seleccionaron repositorios clave del perfil y se analizaron con base en:
 
 ## Estructura del repositorio
 
+## Estructura del repositorio
+
 | Nivel | Área | Repositorio | Contenido | URL |
 |------|------|-------------|-----------|-----|
-| I | Matemáticas | Álgebra Lineal | Espacios vectoriales, eigenvalores | [Repo](#) |
-| I | Matemáticas | Probabilidad en Python | Distribuciones, Monte Carlo | [Repo](#) |
-| II | Estadística | Estadística Inferencial | Estimación, pruebas de hipótesis | [Repo](#) |
-| III | Dinámica | Stochastic Calculus | Movimiento Browniano, SDEs, lema de Itô | [Repo](#) |
-| III | Dinámica | Series de Tiempo | ARIMA, GARCH, forecasting | [Repo](#) |
-| IV | Datos | SQL | MySQL, joins, índices, procedimientos | [Repo](#) |
-| IV | Datos | Ciencia de Datos | MongoDB, NoSQL, agregaciones | [Repo](#) |
-| IV | Datos | Data Manipulation | Pandas avanzado, limpieza, merges | [Repo](#) |
-| IV | Datos | Streamlit | Dashboards, despliegue de modelos | [Repo](#) |
-| V | Machine Learning | Curso Machine Learning | Regresión, clasificación, clustering | [Repo](#) |
-| V | Machine Learning | Portfolio Theory | Markowitz, Sharpe, optimización | [Repo](#) |
-| V | Machine Learning | Artificial Intelligence | Fundamentos IA, algoritmos, lógica | [Repo](#) |
-| VI | NLP | NLP | Embeddings, transformers, BERT | [Repo](#) |
-| VI | Redes | Neural Networks | CNN, RNN, backpropagation | [Repo](#) |
-| VII | LLM | Disruptive Innovation | Innovación con IA, casos estratégicos | [Repo](#) |
+| I | Matemáticas | Álgebra Lineal | Espacios vectoriales, eigenvalores | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Algebra_Lineal) |
+| I | Matemáticas | Probabilidad en Python | Distribuciones, Monte Carlo | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/probabilidad%20en%20Python) |
+| II | Estadística | Estadística Inferencial | Estimación, pruebas de hipótesis | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Estadistica%20Inferencial) |
+| III | Dinámica | Stochastic Calculus | Movimiento Browniano, SDEs, lema de Itô | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Stochastic%20Calculus) |
+| III | Dinámica | Series de Tiempo | ARIMA, GARCH, forecasting | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Series%20de%20tiempo) |
+| IV | Datos | SQL | MySQL, joins, índices, procedimientos | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/SQL) |
+| IV | Datos | Ciencia de Datos | MongoDB, NoSQL, agregaciones | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Ciencia-de-Datos) |
+| IV | Datos | Data Manipulation | Pandas avanzado, limpieza, merges | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Data%20Manipulation) |
+| IV | Datos | Streamlit | Dashboards, despliegue de modelos | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Streamlit) |
+| V | Machine Learning | Curso Machine Learning | Regresión, clasificación, clustering | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Curso%20Machine%20Learning) |
+| V | Machine Learning | Portfolio Theory | Markowitz, Sharpe, optimización | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Portfolio%20Theory) |
+| V | Machine Learning | Artificial Intelligence | Fundamentos IA, algoritmos, lógica | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Artificial%20intelligence) |
+| VI | NLP | NLP | Embeddings, transformers, BERT | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/NLP) |
+| VI | Redes | Neural Networks | CNN, RNN, backpropagation | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Neural-Networks) |
+| VII | LLM | Disruptive Innovation | Innovación con IA, casos estratégicos | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Disruptive%20Innovation) |
 
 ---
 
