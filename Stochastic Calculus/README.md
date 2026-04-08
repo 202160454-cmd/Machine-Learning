@@ -1,105 +1,59 @@
-## Cálculo Estocástico
+# Stochastic Calculus
 
-En esta sección se presenta una **ruta de aprendizaje** para el estudio del cálculo estocástico, integrando teoría de probabilidad, procesos estocásticos y herramientas matemáticas avanzadas. El contenido está basado en diversos materiales, incluyendo libros y notas especializadas.
+Este módulo corresponde al Nivel III dentro de la arquitectura de formación en Inteligencia Artificial.
 
----
-
-### Fundamentos de probabilidad avanzada
-
-Se comienza con conceptos esenciales que permiten construir una base sólida:
-
-- Espacios de probabilidad $(\Omega, \mathcal{F}, P)$  
-- Completitud de un espacio de probabilidad  
-- Conjuntos nulos y su importancia en la teoría de la medida  
-
-Un espacio de probabilidad es **completo** si todo subconjunto de un conjunto de probabilidad cero también es medible. Esta propiedad es fundamental para evitar inconsistencias en construcciones probabilísticas más avanzadas.
+En esta sección se estudian procesos estocásticos y herramientas avanzadas de cálculo estocástico, fundamentales para modelar fenómenos aleatorios en finanzas, física y machine learning.
 
 ---
 
-### Variables aleatorias y tiempos de espera
+## Enfoque del módulo
 
-Se estudian variables aleatorias continuas, en particular:
+El enfoque es teórico-matemático, basado en probabilidad avanzada y procesos estocásticos continuos.
 
-- Distribución exponencial  
-- Propiedades de los tiempos de espera  
-- Relojes exponenciales independientes  
-
-Si $T_1, \dots, T_n$ son variables aleatorias independientes con distribución exponencial, entonces:
-
-$$
-T = \min\{T_1, \dots, T_n\}
-$$
-
-representa el primer evento que ocurre en un sistema de múltiples procesos aleatorios.
+Se trabajan conceptos clave utilizados en modelos financieros y simulaciones.
 
 ---
 
-### Cadenas de Markov en tiempo continuo
+## Contenido
 
-Se introduce el estudio de procesos estocásticos en tiempo continuo, incluyendo:
-
-- Definición de cadenas de Markov en tiempo continuo  
-- Interpretación mediante tiempos de espera  
-- Tiempos medios de paso  
-- Clasificación de estados  
-- Procesos de nacimiento y muerte  
-- Procesos de nacimiento puro  
-
-Además, se analizan las **ecuaciones forward y backward**, fundamentales para describir la evolución temporal de estos procesos.
+- Movimiento Browniano
+- Procesos de Markov
+- Integrales estocásticas
+- Lema de Itô
+- Teorema de Kolmogorov
+- Variables aleatorias gaussianas
 
 ---
 
-### Movimiento Browniano y procesos Gaussianos
+## Material
 
-Se estudia el **movimiento browniano** como uno de los procesos fundamentales del cálculo estocástico:
+Este módulo está basado principalmente en:
 
-- Definición de movimiento browniano estándar  
-- Incrementos independientes y estacionarios  
-- Distribución normal de los incrementos  
-
-Por ejemplo, si $B_t$ es un movimiento browniano, entonces:
-
-$$
-B_t - B_s \sim \mathcal{N}(0, t - s)
-$$
-
-También se analizan momentos de orden superior y propiedades de procesos gaussianos.
+- Notas teóricas (PDFs)
+- Desarrollo matemático formal
+- Ejercicios avanzados
 
 ---
 
-### Martingalas
+## Archivos principales
 
-Se introduce el concepto de **martingalas**, clave en teoría de probabilidad moderna:
-
-- Definición de martingala  
-- Propiedades básicas  
-- Interpretación como "juegos justos"  
-
-Las martingalas son fundamentales en finanzas, teoría de apuestas y modelado estocástico.
+- Brownian Motion Martingales SC.pdf  
+- Markov_Chains_num.pdf  
+- La integral estocástica.pdf  
+- ito_formula.pdf  
+- The Daniell-Kolmogorov existence theorem.pdf  
 
 ---
 
-### Integración estocástica
+## Objetivo
 
-Se construye la integral estocástica de manera rigurosa:
-
-- Definición inicial para procesos simples (funciones escalonadas)  
-- Extensión mediante límite en media cuadrática ($L^2$)  
-- Motivación: superar limitaciones de definiciones clásicas  
-
-Este enfoque permite definir integrales respecto al movimiento browniano, base del cálculo estocástico.
+Comprender el comportamiento de procesos aleatorios en tiempo continuo y su aplicación en modelado matemático avanzado.
 
 ---
 
-### Aplicaciones y conexión con otras áreas
+## Mejora aplicada
 
-El cálculo estocástico tiene aplicaciones en:
-
-- Finanzas cuantitativas  
-- Modelos de difusión  
-- Inteligencia Artificial  
-- Procesos de decisión  
-
-También se estudian ejemplos aplicados como:
-- Procesos de nacimiento y muerte  
-- Modelos dinámicos en sistemas aleatorios  
+- Organización estructurada del material teórico  
+- Clasificación por temas clave  
+- Documentación clara del contenido  
+- Presentación profesional de material académico  
