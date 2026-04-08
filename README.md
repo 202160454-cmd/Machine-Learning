@@ -63,21 +63,21 @@ El perfil se organiza en niveles progresivos que reflejan el desarrollo de habil
 
 | Nivel | Área | Repositorio | Contenido | URL |
 |------|------|-------------|-----------|-----|
-| I | Matemáticas | Álgebra Lineal | Espacios vectoriales, eigenvalores | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Algebra_Lineal) |
-| I | Matemáticas | Probabilidad en Python | Distribuciones, Monte Carlo | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/probabilidad%20en%20Python) |
-| II | Estadística | Estadística Inferencial | Estimación, pruebas de hipótesis | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Estadistica%20Inferencial) |
-| III | Dinámica | Stochastic Calculus | Movimiento Browniano, SDEs, lema de Itô | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Stochastic%20Calculus) |
-| III | Dinámica | Series de Tiempo | ARIMA, GARCH, forecasting | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Series%20de%20tiempo) |
-| IV | Datos | SQL | MySQL, joins, índices, procedimientos | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/SQL) |
-| IV | Datos | Ciencia de Datos | MongoDB, NoSQL, agregaciones | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Ciencia-de-Datos) |
-| IV | Datos | Data Manipulation | Pandas avanzado, limpieza, merges | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Data%20Manipulation) |
-| IV | Datos | Streamlit | Dashboards, despliegue de modelos | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Streamlit) |
-| V | Machine Learning | Curso Machine Learning | Regresión, clasificación, clustering | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Curso%20Machine%20Learning) |
-| V | Machine Learning | Portfolio Theory | Markowitz, Sharpe, optimización | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Portfolio%20Theory) |
-| V | Machine Learning | Artificial Intelligence | Fundamentos IA, algoritmos, lógica | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Artificial%20intelligence) |
-| VI | NLP | NLP | Embeddings, transformers, BERT | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/NLP) |
-| VI | Redes | Neural Networks | CNN, RNN, backpropagation | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Neural-Networks) |
-| VII | LLM | Disruptive Innovation | Innovación con IA, casos estratégicos | [Repo](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Disruptive%20Innovation) |
+| I | Matemáticas | Álgebra Lineal | Espacios vectoriales, eigenvalores | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Algebra_Lineal) |
+| I | Matemáticas | Probabilidad en Python | Distribuciones, Monte Carlo | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/probabilidad%20en%20Python) |
+| II | Estadística | Estadística Inferencial | Estimación, pruebas de hipótesis | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Estadistica%20Inferencial) |
+| III | Dinámica | Stochastic Calculus | Movimiento Browniano, SDEs, lema de Itô | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Stochastic%20Calculus) |
+| III | Dinámica | Series de Tiempo | ARIMA, GARCH, forecasting | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Series%20de%20tiempo) |
+| IV | Datos | SQL | MySQL, joins, índices, procedimientos | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/SQL) |
+| IV | Datos | Ciencia de Datos | MongoDB, NoSQL, agregaciones | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Ciencia-de-Datos) |
+| IV | Datos | Data Manipulation | Pandas avanzado, limpieza, merges | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Data%20Manipulation) |
+| IV | Datos | Streamlit | Dashboards, despliegue de modelos | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Streamlit) |
+| V | Machine Learning | Curso Machine Learning | Regresión, clasificación, clustering | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Curso%20Machine%20Learning) |
+| V | Machine Learning | Portfolio Theory | Markowitz, Sharpe, optimización | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Portfolio%20Theory) |
+| V | Machine Learning | Artificial Intelligence | Fundamentos IA, algoritmos, lógica | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Artificial%20intelligence) |
+| VI | NLP | NLP | Embeddings, transformers, BERT | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/NLP) |
+| VI | Redes | Neural Networks | CNN, RNN, backpropagation | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Neural-Networks) |
+| VII | LLM | Disruptive Innovation | Innovación con IA, casos estratégicos | [Repositorio](https://github.com/lizmartinezz21/Machine-Learning/tree/main/Disruptive%20Innovation) |
 
 ---
 
