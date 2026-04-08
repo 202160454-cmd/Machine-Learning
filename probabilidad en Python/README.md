@@ -1,35 +1,64 @@
-## Probabilidad en Python
+# Probabilidad de Python
 
-En esta sección se introduce el estudio de la probabilidad utilizando Python como herramienta principal para la resolución de problemas.
+Este módulo corresponde al Nivel I dentro de la arquitectura de formación en Inteligencia Artificial.
 
-Se desarrollan ejemplos prácticos de cálculo de probabilidades, en los cuales se construyen funciones desde cero (sin el uso de librerías especializadas en probabilidad) para resolver distintos casos de estudio, tales como:
-- Problemas de extracción de urnas  
-- Problema de Newton aplicado al lanzamiento de dados  
-
-Estos ejercicios permiten comprender paso a paso la lógica detrás de los cálculos probabilísticos, reforzando el aprendizaje mediante la implementación directa en código.
-
-Asimismo, se incluyen ejemplos gráficos relacionados con:
-- Frecuencias  
-- Distribuciones de probabilidad  
-- Esperanza matemática  
-- Varianza  
-
-Para ello, se hace uso de herramientas como **NumPy** y **Matplotlib**, facilitando la visualización e interpretación de los resultados.
-
-### Muestreo aleatorio con NumPy
-
-Se aborda el muestreo aleatorio a través del **Ensayo de Bernoulli**, utilizando el ejemplo del lanzamiento de una moneda:
-
-- Espacio muestral: $\Omega = \{\text{águila}, \text{sol}\}$  
-- Variable aleatoria: $X:\Omega \to \{0,1\}$  
-- Asignación de probabilidad:  
-  - $\mathbb{P}(X(\text{sol}) = 1) = p \in (0,1)$  
-  - $\mathbb{P}(X(\text{águila}) = 0) = 1 - p \in (0,1)$  
-
-Este enfoque permite simular experimentos aleatorios y analizar sus resultados mediante programación.
-
-### Ruina del jugador
-
-También se introduce el problema de la **ruina del jugador**, un modelo clásico de probabilidad que describe la evolución del capital de un jugador que participa en apuestas repetidas. Este problema permite analizar la probabilidad de que el jugador pierda todo su dinero (ruina) o alcance un objetivo, en función de sus probabilidades de ganar y su capital inicial.
+En esta sección se desarrollan los fundamentos probabilísticos necesarios para el análisis de datos y modelado estadístico.
 
 ---
+
+## Enfoque del módulo
+
+El enfoque es teórico-práctico, combinando conceptos de probabilidad con simulaciones en Python.
+
+---
+
+## Contenido
+
+- Variables aleatorias  
+- Distribuciones de probabilidad  
+- Ley de los grandes números  
+- Teorema central del límite  
+- Simulación de procesos aleatorios  
+
+---
+
+## Metodología
+
+- Desarrollo teórico  
+- Implementación en Python  
+- Simulación  
+- Interpretación de resultados  
+
+---
+
+## Archivos principales
+
+- Probabilidad en Python.ipynb  
+- Simulación normal.ipynb  
+- Ruina_del_jugador.ipynb  
+- Variación_de_la_muestra.ipynb  
+- Frecuencia y Distribución.ipynb  
+
+---
+
+## Material adicional
+
+- TCL.pdf → Teorema Central del Límite  
+- Lévy.pdf  
+- LGNyTCL.pdf  
+- Notas TCL.pdf  
+
+---
+
+## Objetivo
+
+Comprender el comportamiento de fenómenos aleatorios y desarrollar intuición probabilística mediante simulaciones computacionales.
+
+---
+
+## Mejora aplicada
+
+- Organización temática del contenido  
+- Integración de teoría y simulación  
+- Documentación estructurada  
+- Mejora en claridad y presentación  
