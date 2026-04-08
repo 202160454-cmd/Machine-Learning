@@ -1,59 +1,69 @@
-## Series de Tiempo
+# Series de Tiempo
 
-En esta sección se introduce el análisis de **series de tiempo**, abordando tanto los fundamentos teóricos como su implementación práctica en Python para el modelado y predicción de datos temporales.
+Este módulo corresponde al Nivel III dentro de la arquitectura de formación en Inteligencia Artificial.
 
----
-
-## 🧭 Ruta de aprendizaje
-
-### 1. Introducción a las series de tiempo
-
-Una serie de tiempo es una secuencia de datos u observaciones registradas en distintos momentos del tiempo, generalmente en intervalos regulares. Estos pueden ser:
-
-- Horarios  
-- Diarios  
-- Semanales  
-- Mensuales  
-- Trimestrales  
-- Anuales  
-
-El objetivo principal es analizar el comportamiento de los datos a lo largo del tiempo para identificar patrones y realizar predicciones.
+En esta sección se analizan procesos temporales utilizando modelos estadísticos avanzados, con el objetivo de modelar, entender y predecir el comportamiento de variables a lo largo del tiempo.
 
 ---
 
-### 2. Análisis y visualización
+## Enfoque del módulo
 
-El análisis de series de tiempo utiliza métodos estadísticos para:
+El enfoque está orientado al análisis cuantitativo de series temporales, combinando teoría estadística con implementación práctica en Python.
 
-- Identificar tendencias  
-- Detectar estacionalidad  
-- Analizar variabilidad  
-- Extraer patrones relevantes  
-
-Las series de tiempo suelen visualizarse mediante **gráficos de líneas**, lo que permite interpretar de forma clara la evolución de los datos.
+Se aplican modelos clásicos y modernos utilizados en finanzas, economía y ciencia de datos.
 
 ---
 
-### 3. Forecasting (Predicción)
+## Contenido
 
-La **previsión de series temporales** consiste en utilizar modelos estadísticos para predecir valores futuros basándose en datos históricos.
-
-Este proceso es clave en áreas como:
-- Finanzas  
-- Economía  
-- Machine Learning  
-- Sistemas de monitoreo  
+- Procesos autoregresivos (AR)
+- Modelos ARIMA y SARIMA
+- Modelos GARCH (volatilidad)
+- Promedios móviles
+- Modelos de predicción con Prophet
+- Análisis de estacionalidad y tendencia
 
 ---
 
-### 4. Implementación en Python
+## Metodología
 
-Se utiliza Python para descargar, procesar y modelar datos financieros reales.
+Los notebooks siguen un flujo analítico estructurado:
 
-#### 📥 Descarga de datos
-Se emplea la librería `yfinance` para obtener datos históricos del índice S&P 500:
+1. Exploración de la serie temporal  
+2. Análisis de estacionariedad  
+3. Identificación del modelo  
+4. Ajuste del modelo  
+5. Validación y diagnóstico  
+6. Predicción (forecasting)  
 
-```python
-import yfinance as yf
+---
 
-sp500 = yf.download("^GSPC", start="2000-01-01", end="2014-12-31")
+## Archivos principales
+
+- Autorregresivo_1.ipynb → Modelos AR  
+- GARCH.ipynb / Procesos_GARCH.ipynb → Modelado de volatilidad  
+- Moving Average MA.ipynb → Promedios móviles  
+- Prediction_microsoft_Prophet.ipynb → Forecasting moderno  
+- Statsmodels_&_Prophet.ipynb → Comparación de modelos  
+
+---
+
+## Datasets
+
+- AirPassengers.csv → Serie clásica de demanda aérea  
+- dc.csv → Datos para modelado  
+
+---
+
+## Objetivo
+
+Desarrollar la capacidad de modelar series temporales y generar predicciones robustas utilizando herramientas estadísticas y computacionales.
+
+---
+
+## Mejora aplicada
+
+- Estructuración por tipo de modelo  
+- Integración de modelos clásicos y modernos  
+- Mejora en visualización y análisis  
+- Documentación profesional del flujo analítico  
