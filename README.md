@@ -73,8 +73,6 @@ Se seleccionaron repositorios clave del perfil y se analizaron con base en:
 | VI | Redes | Neural Networks | CNN, RNN, backpropagation | [🔗 Repo](#) |
 | VII | LLM | Disruptive Innovation | Innovación con IA, casos estratégicos | [🔗 Repo](#) |
 
-> **Nota:** los enlaces pueden reemplazarse por la URL real de cada repositorio.
-
 ---
 
 ## 🔍 Análisis de repositorios
