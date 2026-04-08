@@ -1,51 +1,55 @@
 # Ciencia de Datos
 
-Este repositorio reúne diferentes prácticas, conceptos y aplicaciones relacionadas con el campo de la **Ciencia de Datos**, integrando herramientas de análisis, bases de datos, procesamiento de información y técnicas de aprendizaje a partir de datos reales.
+Este módulo corresponde al Nivel IV dentro de la arquitectura de formación en Inteligencia Artificial.
+
+En esta sección se trabajan técnicas fundamentales para el análisis, manipulación y procesamiento de datos, utilizando herramientas como Python, Pandas y bases de datos.
 
 ---
 
-## 🧭 Descripción general
+## Contenido
 
-El contenido del repositorio está orientado a desarrollar habilidades prácticas en:
-
-- Manipulación y análisis de datos  
-- Conexión a bases de datos  
-- Procesamiento de información estructurada y no estructurada  
-- Análisis exploratorio de datos  
-- Procesamiento de lenguaje natural (NLP)  
-
-Todo ello utilizando Python como lenguaje principal.
+- Manipulación de datos con Pandas
+- Bases de datos SQL y SQLite
+- Uso de MongoDB y PyMongo
+- Análisis exploratorio de datos
+- Procesamiento de datasets reales
 
 ---
 
-## 📦 Fuentes de datos
+## Estructura
 
-Se trabaja con diferentes conjuntos de datos, como:
+Los notebooks siguen una estructura orientada al análisis de datos:
 
-- Datos de películas (IMDB)  
-- Datos de texto para análisis de sentimientos  
-
-Estos datasets permiten aplicar técnicas de análisis tanto numérico como textual.
-
----
-
-## 🗄️ Conexión a bases de datos (MongoDB)
-
-Se incluye el uso de **MongoDB** como base de datos NoSQL, utilizando la librería `pymongo` para:
-
-- Establecer conexión con un clúster  
-- Validar la conexión mediante comandos como `ping`  
-- Preparar el entorno para almacenamiento y consulta de datos  
-
-Esto permite trabajar con datos no estructurados y escalables.
+- Carga de datos
+- Limpieza y transformación
+- Exploración de datos
+- Visualización
+- Conclusiones
 
 ---
 
-## 📊 Análisis de datos con Pandas
+## Archivos principales
 
-Se emplea la librería `pandas` para:
+- IMDB-Movie-Data.csv → Dataset de películas  
+- IMDB.sqlite → Base de datos SQLite  
+- MongoDB.ipynb → Uso de MongoDB  
+- PyMongo.ipynb → Conexión a bases de datos NoSQL  
+- PANDAS.ipynb → Manipulación de datos  
+- SENTIMENT_Pelis.ipynb → Análisis de sentimientos  
 
-- Cargar datasets (`.csv`)  
-- Explorar datos con métodos como `.head()`  
-- Limpiar y transformar información  
-- Preparar los datos para análisis posteriores  
+---
+
+## Objetivo
+
+El objetivo de este módulo es desarrollar habilidades en el manejo de datos, desde su limpieza hasta su análisis, permitiendo obtener información útil para la toma de decisiones.
+
+---
+
+## Mejora aplicada
+
+Se mejoró la estructura del repositorio mediante:
+
+- Organización clara de archivos
+- Documentación con README estructurado
+- Explicación del propósito de cada notebook
+- Presentación más profesional del contenido
